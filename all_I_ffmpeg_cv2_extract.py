@@ -71,8 +71,3 @@ if __name__ == '__main__':
         save_i_keyframes(file_name)
         end=time.time()
     print(f"{end-start:.5f} sec")
-    # get_frame_types(filenames)
-    # save_i_keyframes(filename)
-    
-    
-    # 프레임 순서 정보로 영상에서 원하는 프레임을 추출할 수 있다
